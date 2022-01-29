@@ -1,20 +1,44 @@
-Welcome to Lumache's documentation!
+동행복권 파워볼사이트 검증 커뮤니티  파워볼 공식블로그 안내 – 파워볼닥터
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**파워볼닥터** 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+파워볼게임 수익의 최적화가 가능한 목적지 도착 배팅 전략
+안녕하세요, 오늘은 빠르게 수익을 최적화 시킬 수 있는 목적지 
+전략에 대해서말씀 드려 보도록 하겠습니다.
+
+손실 때문에 복구가 필요한 분들은 오늘의 포스팅을 이해하시면
+
+빠르게 수익을 최적화 하실 수 있을 것입니다.
 
 .. note::
 
-   This project is under active development.
+  > 파워볼게임 에서 목적지 없이, 정처없이 떠도는 상황을 많이 보게 됩니다.
+목적지 라는 개념이 없기 때문에 패스를 해야 하는 곳에서 배팅을 하고
+배팅을 해야 하는 곳에서 패스하기 때문입니다.
+그럼 이제부터 구간을 통해서 자세히 설명 드리도록 하겠습니다
 
-Contents
---------
+
+**파워볼게임 출현 결과** 
+
+이런 파워볼 구간이 나왔을 때 목적지는 어떻게 설정을 할 수 있을까요?
+그리고 어느 시점에서 목적지를 설정해야 할까요?
+아직 감이 잘 오지 않으실거라 생각합니다.
+왜냐하면 여러분들은 이런 식으로 파워볼 배팅을 해 본적이 없기 때문입니다.
+우선 43회차부터 47회차까지 장줄이 나타난 것을 확인할 수 있습니다.
+49회차부터 50회차 사이에 두줄이 올라온 것이 보이시나요?
+장줄 이후에 두줄이 올라왔다면 2박스 메타를 예상해 볼 수 있습니다.
+따라서 51회차 52회차에서는 2줄을 올리게 됩니다.
+그렇다면 49회차부터 52회차까지 2박스가 나타나게 되었죠?
+그러면 이제부터 나타나는 메타는 2박스를 우선 시 해서 배팅을 해야 하며
+우리가 배팅을 해야 하는 목적지 역시 2박스로 설정을 하시면 됩니다.
+즉, 구간에서 보이는 가장 강력한 파워볼 메타를 목적지로 설정하는 것입니다.
+
+-`파워볼사이트 <https://systemsacademy.io/>`_
+
+-`파워볼추천사이트 <https://wmpro.io/>`_
+
+-`동행복권 파워볼사이트 <https://systemsacademy.io/>`_
 
 .. toctree::
 
