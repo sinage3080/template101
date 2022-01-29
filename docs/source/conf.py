@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = '파워볼커뮤니티'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = '파워볼랩'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +20,8 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    '파워볼사이트': ('https://systemsacademy.io/', None),
+    'website': ('https://systemsacademy.io/', None),
 }
 intersphinx_disabled_domains = ['std']
 
