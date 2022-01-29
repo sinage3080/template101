@@ -1,34 +1,22 @@
-Usage
+파워볼사이트 검증 절차
 =====
 
-.. _installation:
+파워볼클리닉 은 이러한 부분을 최대한 개선하려고 노력하였으며,
 
-Installation
-------------
+여러 파워볼놀이터 운영진분들과 오랜기간에 걸쳐 온라인미팅을 진행했으며,
+미팅 후 파워볼클리닉 운영진 자체적으로 파워볼사이트 를 검증 진행하고 있습니다.
 
-To use Lumache, first install it using pip:
+더불어 회원님들께서 안심하고 배팅하실 수 있는 문화
+그리고 더 자유롭게 배팅하실 수 있는 문화를 만들기 위해 앞장서고 있습니다.
 
-.. code-block:: console
+파워볼클리닉 에서는 완벽하게 검증을 진행하여 통과한 업체들만을
+파워볼추천사이트 로 공개해 드리고 있으며,
 
-   (.venv) $ pip install lumache
+먹튀보증금을 통해 회원님들의 소중한 자산 또한 보호해 드리고 있음을 알려드립니다.
+감사합니다.
 
-Creating recipes
-----------------
+-`파워볼사이트 <https://systemsacademy.io/>`_
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+-`파워볼추천사이트 <https://wmpro.io/>`_
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+-`동행복권 파워볼사이트 <https://systemsacademy.io/>`_
